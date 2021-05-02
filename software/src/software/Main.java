@@ -25,7 +25,7 @@ public class Main {
 		
 		Category category1 = new Category();
 		category1.id = 1;
-		category1.name = "YazÃ½lÃ½m";
+		category1.name = "Yazýlým";
 		
 		Category category2 = new Category();
 		category2.id = 2;
